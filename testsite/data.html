@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="images/happyplant logo.png"/>
+  <title>Happy Plant | Data</title>
+
+</head>
+
+
+<header class="header">
+  <img src="images/happyplant logo.png">
+
+  <nav class="navbar">
+    <a href="index.html" class="logo">Home</a>
+    <a href="team.html" class="logo">Ons Team</a>
+    <a href="data.html" class="logo">Data</a>
+    <a href="product.html" class="logo">Ons Product</a>
+    <a href="contact.html" class="logo">Contact</a>
+  </nav>
+
+  <div id="preloader">
+    <img src="images/happyloader.gif" alt="Loading..." />
+  </div>
+
+  <script>
+    // JavaScript to display the preloader
+    document.onreadystatechange = function () {
+      var state = document.readyState;
+      if (state == 'interactive') {
+        document.getElementById('preloader').style.display = 'block';
+      } else if (state == 'complete') {
+        setTimeout(function(){
+          document.getElementById('preloader').style.display = 'none';
+        },1000); // Simulating a delay for demo purposes
+      }
+    };
+    </script>
+</body>
+</html>
+

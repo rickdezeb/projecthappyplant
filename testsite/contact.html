@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="images/happyplant logo.png"/>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="contact.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+  <title>Happy Plant | Contact</title>
+</head>
+
+
+<header class="header">
+  <img src="images/happyplant logo.png">
+
+  <nav class="navbar">
+    <a href="index.html" class="logo">Home</a>
+    <a href="team.html" class="logo">Ons Team</a>
+    <a href="data.html" class="logo">Data</a>
+    <a href="product.html" class="logo">Ons Product</a>
+    <a href="contact.html" class="logo">Contact</a>
+  </nav>
+
+  <div id="preloader">
+    <img src="images/happyloader.gif" alt="Loading..." />
+  </div>
+
+  <script>
+    // JavaScript to display the preloader
+    document.onreadystatechange = function () {
+      var state = document.readyState;
+      if (state == 'interactive') {
+        document.getElementById('preloader').style.display = 'block';
+      } else if (state == 'complete') {
+        setTimeout(function(){
+          document.getElementById('preloader').style.display = 'none';
+        },1000); // Simulating a delay for demo purposes
+      }
+    };
+    </script>
+</header>
+<body id="contact">
+<div class="contact-form">
+  <div class="container">
+      <div class="content">
+          <div class="left-side">
+              <div class="address details">
+                  <i class="fas fa-map-marker-alt"></i>
+                  <div class="topic">Adres</div>
+                  <div class="text-one">Eindhoven R10</div>
+                  <div class="text-two">Rachelsmolen 1</div>
+              </div>
+              <div class="phone details">
+                  <i class="fas fa-phone-alt"></i>
+                  <div class="topic">Telefoon</div>
+                  <div class="text-one">+31 06 12345678</div>
+              </div>
+              <div class="email details">
+                  <i class="fas fa-envelope"></i>
+                  <div class="topic">E-mail</div>
+                  <div class="text-one">info@happyplant.nl</div>
+                  <div class="text-two"></div>
+              </div>
+          </div>
+          <div class="right-side">
+              <div class="topic-text">Contact</div>
+              <p>Heb je vragen? Stel ze hier!</p>
+              <form action="#">
+                <div class="input-box">
+                  <input type="text" id="name" placeholder="Naam">
+                </div>
+                <div class="input-box">
+                  <input type="text" id="email" placeholder="E-mail">
+                </div>
+                <div class="input-box message-box">
+                  <textarea id="msg" name="name" rows="8" cols="80" placeholder="Bericht"></textarea>
+                </div>
+                <div class="button">
+                  <input type="button" value="Versturen" onclick="message()">
+                </div>
+                <div class="message">
+                  <div class="success" id="success">
+                    Je bericht is verstuurd!
+                  </div>
+                  <div class="danger" id="danger">Vul alle vakken in</div>
+                </div>
+              </form>
+          </div>
+      </div>
+      <script src="37successfulmsgonsubmit.js"></script>
+</body>
+
+</html>
+
+

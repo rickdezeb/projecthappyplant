@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css">
+  <link rel="icon" type="image/png" href="images/happyplant logo.png"/>
+  <html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Happy Plant | Home</title>
+</head>
+<body>
+  <header class="header">
+    <img  class="logo" src="images/happyplant logo.png">
+
+    <input type="checkbox" id="check">
+    <label for="check" class="iconsnavbar">
+      <i class='bx bx-menu' id="menu-icon"></i>
+      <i class='bx bx-x' id="close-icon"></i>
+    </label>
+
+    <nav class="navbar">
+      <a href="index.html" style="--i:0;">Home</a>
+      <a href="team.html" style="--i:1;">Ons Team</a>
+      <a href="data.html" style="--i:2;">Data</a>
+      <a href="product.html" style="--i:3;">Ons Product</a>
+      <a href="contact.html" style="--i:4;">Contact</a>
+    </nav>
+  </header>
+
+  <div class="textbox1">
+    <h1>Happy Plant</h1>
+    <p>Unnecessary water, leaf me alone!</p>
+  </div>
+
+  <div class="iframepromo">
+    <div class="youtubeholder">
+  <iframe src="https://www.youtube.com/embed/HP_7YvYXjsI?autoplay=1" width="560" height="315" 
+  frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <div id="preloader">
+    <img src="images/happyloader.gif" alt="Loading..." />
+  </div>
+
+  <script>
+    // JavaScript to display the preloader
+    document.onreadystatechange = function () {
+      var state = document.readyState;
+      if (state == 'interactive') {
+        document.getElementById('preloader').style.display = 'block';
+      } else if (state == 'complete') {
+        setTimeout(function(){
+          document.getElementById('preloader').style.display = 'none';
+        },1000); // Simulating a delay for demo purposes
+      }
+    };
+  </script>
+
+<footer class="footer-distributed">
+
+  <div class="footer-left">
+      <h3>Happy <span>Plant</span></h3>
+
+      <p class="footer-links">
+          <a href="#">Home</a>
+          |
+          <a href="team.html">Ons Team</a>
+          |
+          <a href="#">Data</a>
+          |
+          <a href="#">Prijzen</a>
+          |
+          <a href="#">Contact</a>
+      </p>
+
+      <p class="footer-company-name">Copyright © 2023 <strong>Happy Plant</strong></p>
+  </div>
+
+  <div class="footer-center">
+      <div>
+          <i class="fa fa-map-marker"></i>
+          <p><span>Fontys</span>
+              Eindhoven</p>
+      </div>
+
+      <div>
+          <i class="fa fa-phone"></i>
+          <p>06 12345678</p>
+      </div>
+      <div>
+          <i class="fa fa-envelope"></i>
+          <p><a href="#">info@happyplant.nl</a></p>
+      </div>
+  </div>
+  <div class="footer-right">
+      <p class="footer-company-about">
+          <span>Over Ons</span>
+          <strong>Happy Plant</strong> is een project waarin wij een water irrigatie systeem maken om planten automatisch water te geven 
+          zodat er nooit meer te veel of te weinig water wordt gegeven.
+      </p>
+      <div class="footer-icons">
+          <a href="#"><i class="fa fa-facebook"></i></a>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+          <a href="#"><i class="fa fa-linkedin"></i></a>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+          <a href="#"><i class="fa fa-youtube"></i></a>
+      </div>
+  </div>
+</footer>
+</body>
+</html>
