@@ -7,7 +7,7 @@ namespace MariaDB
 {
     internal class Program
     {
-        private MySqlConnection Database = new MySqlConnection("Server=162.19.139.137; Port=3306; Database=s39872_happyplant; Uid=u39872_4ZMr4ARAKk; Pwd=lXZ6Yh2Vard1vkG5l5RIQB30;");
+s        private MySqlConnection Database = new MySqlConnection("Server=162.19.139.137; Port=3306; Database=s39872_happyplant; Uid=u39872_4ZMr4ARAKk; Pwd=lXZ6Yh2Vard1vkG5l5RIQB30;");
 
         static void Main(string[] args)
         {
