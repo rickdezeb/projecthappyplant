@@ -2,7 +2,6 @@
 using System.Threading;
 using MySqlConnector;
 
-ff
 namespace MariaDB
 {
     internal class Program
