@@ -25,6 +25,10 @@ namespace MariaDB
 
                 while (true)
                 {
+                    Console.Clear();
+                    Console.WriteLine("Connected to the database.");
+                    Console.WriteLine("Data from database:");
+                    Console.WriteLine(new string('-', 50));
                     int Getdatadelay = 10000;
                     ReadDataFromDatabase();
                     Console.WriteLine(new string('-', 50));
