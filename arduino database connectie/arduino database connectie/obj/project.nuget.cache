@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "N2SPcsVboQ1d2mLui0/C3lQUQAXYVY4yBe4SCc/kIZdX5gCYMQ7SMYwhtXFuYtl3TV9Q3AZ9l+BIBLEMtQeJjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rickp\\OneDrive\\Documenten\\School\\S1\\Happy plant proftaak\\arduino database connectie\\arduino database connectie\\arduino database connectie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rickp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\rickp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

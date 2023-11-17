@@ -3,23 +3,6 @@ C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant da
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\happy plant database viewer.runtimeconfig.json
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\happy plant database viewer.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\happy plant database viewer.pdb
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.AssemblyReference.cache
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.AssemblyInfoInputs.cache
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.AssemblyInfo.cs
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.CoreCompileInputs.cache
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.CopyComplete
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\refint\happy plant database viewer.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.pdb
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.genruntimeconfig.cache
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\ref\happy plant database viewer.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\Google.Protobuf.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
@@ -27,7 +10,9 @@ C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant da
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.Data.SqlClient.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\System.IO.Pipelines.dll
@@ -43,9 +28,24 @@ C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant da
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.AssemblyReference.cache
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.AssemblyInfoInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.AssemblyInfo.cs
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.CoreCompileInputs.cache
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.csproj.CopyComplete
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\refint\happy plant database viewer.dll
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.pdb
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\happy plant database viewer.genruntimeconfig.cache
+C:\Users\rickp\OneDrive\Documenten\School\S1\Happy plant proftaak\happy plant database viewer\happy plant database viewer\obj\Debug\net6.0\ref\happy plant database viewer.dll

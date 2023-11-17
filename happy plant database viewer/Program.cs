@@ -82,6 +82,7 @@ namespace MariaDB
             {
                 Console.WriteLine("Error retrieving data from the database: " + ex.Message);
             }
+
         }
     }
 }
